@@ -1,0 +1,9 @@
+renv/library/*
+rsconnect
+.RProj.*
+.Rhistory
+.Rproj.user
+.REnviron
+.Rprofile
+config.yml
+www/dcf_dashboard.css
