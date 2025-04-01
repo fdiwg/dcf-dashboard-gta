@@ -4,6 +4,7 @@ options(stringsAsFactors = FALSE)
 
 #packages
 #---------------------------------------------------------------------------------------
+library(vrule)
 library(dcf.dashboard)
 
 # Run the application 
